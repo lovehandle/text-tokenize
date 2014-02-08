@@ -1,0 +1,23 @@
+{
+  "name": "text-tokenize",
+  "description": "A text tokenizer module for converting blocks of text into keywords",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rclosner/text-tokenize.git"
+  },
+  "author": "Ryan Closner",
+  "main": "lib/tokenize.js",
+  "scripts": {},
+  "directories": {
+    "lib": "lib"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "underscore": "1.5.x",
+    "underscore.inflections": "0.2.x"
+  }
+}
